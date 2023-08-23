@@ -14,10 +14,25 @@ Esta aplicación te permite ingresar las horas y minutos trabajados y calcular c
 
 ## Capturas de Pantalla
 ![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.33.png)
+<p align="center">
+  <img src="(https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.33.png)" width="300" alt="Captura de Pantalla 1">
+</p>
 ![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.55.png)
+<p align="center">
+  <img src="(https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.55.png)" width="300" alt="Captura de Pantalla 1">
+</p>
 ![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.04.png)
+<p align="center">
+  <img src="(https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.04.png)" width="300" alt="Captura de Pantalla 1">
+</p>
 ![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.18.png)
+<p align="center">
+  <img src="(https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.18.png)" width="300" alt="Captura de Pantalla 1">
+</p>
 ![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.30.png)
+<p align="center">
+  <img src="(https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.30.png)" width="300" alt="Captura de Pantalla 1">
+</p>
 
 
 
