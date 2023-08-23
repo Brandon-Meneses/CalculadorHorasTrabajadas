@@ -13,8 +13,12 @@ Esta aplicación te permite ingresar las horas y minutos trabajados y calcular c
 - Interfaz de usuario intuitiva y fácil de usar.
 
 ## Capturas de Pantalla
+![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
+![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
+![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
+![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
 
-Inserta aquí capturas de pantalla de la aplicación para mostrar su funcionamiento.
+
 
 ## Instalación
 
