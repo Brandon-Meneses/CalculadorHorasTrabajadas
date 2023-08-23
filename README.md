@@ -13,7 +13,7 @@ Esta aplicación te permite ingresar las horas y minutos trabajados y calcular c
 - Interfaz de usuario intuitiva y fácil de usar.
 
 ## Capturas de Pantalla
-![Captura de Pantalla](Images/Captura de pantalla 2023-08-23 a la(s) 18.22.33.png)
+![Captura de Pantalla](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.33.png)
 ![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
 ![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
 ![Captura de Pantalla](https://github.com/tu-usuario/tu-repositorio/raw/main/screenshot.png)
