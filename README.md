@@ -50,14 +50,8 @@ Puedes instalar la Calculadora de Horas Trabajadas en tu dispositivo Android sig
 
 ## Requisitos
 
-- Dispositivo Android con versión XX.XX o superior.
+- Dispositivo Android Lollipop con versión (versión 5.0) o superior.
 - Acceso a Internet para actualizaciones y mejoras.
-
-## Instalación
-
-1. Descarga el archivo APK de la última versión desde la sección "Releases" en este repositorio.
-2. Transfiere el archivo APK a tu dispositivo Android.
-3. Abre el archivo APK en tu dispositivo para instalar la aplicación.
 
 ## Contribuciones
 
