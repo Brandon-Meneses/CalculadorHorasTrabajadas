@@ -14,15 +14,15 @@ Esta aplicación te permite ingresar las horas y minutos trabajados y calcular c
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.33.png){:width="75%"}
+![Captura de Pantalla 1](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.33.png){:width="30%"}
 
-![Captura de Pantalla 2](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.55.png){:width="75%"}
+![Captura de Pantalla 2](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.22.55.png){:width="30%"}
 
-![Captura de Pantalla 3](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.04.png){:width="75%"}
+![Captura de Pantalla 3](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.04.png){:width="30%"}
 
-![Captura de Pantalla 4](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.18.png){:width="75%"}
+![Captura de Pantalla 4](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.18.png){:width="30%"}
 
-![Captura de Pantalla 5](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.30.png){:width="75%"}
+![Captura de Pantalla 5](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Images/Captura%20de%20pantalla%202023-08-23%20a%20la(s)%2018.23.30.png){:width="30%"}
 
 
 
