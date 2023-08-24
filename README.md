@@ -32,7 +32,7 @@ Esta aplicación te permite ingresar las horas y minutos trabajados y calcular c
 
 Puedes instalar la Calculadora de Horas Trabajadas en tu dispositivo Android siguiendo estos pasos:
 
-1. Descarga el archivo APK de la última versión desde la sección "Releases" en este repositorio. [Enlace aquí](enlace_al_archivo.apk)
+1. Descarga el archivo APK de la última versión desde la sección "Releases" en este repositorio. [Enlace aquí](https://github.com/Brandon-Meneses/CalculadorHorasTrabajadas/blob/main/Releases/Calculadora.apk)
 2. Transfiere el archivo APK a tu dispositivo Android. Puedes hacerlo mediante cable USB, correo electrónico o cualquier otro método que prefieras.
 3. En tu dispositivo Android, habilita la opción "Fuentes desconocidas" en la configuración de seguridad. Esto te permitirá instalar aplicaciones que no provengan de la tienda oficial.
 4. Abre el archivo APK en tu dispositivo. Es posible que debas buscarlo en la carpeta de descargas o en el lugar donde lo hayas transferido.
