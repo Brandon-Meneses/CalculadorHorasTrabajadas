@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F35A5A"
+    tools:context=".IngresoHoras">
+
+    <EditText
+        android:id="@+id/etCantidadDias"
+        android:layout_width="304dp"
+        android:layout_height="70dp"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="317dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="304dp"
+        android:layout_height="84dp"
+        android:background="#D69292"
+        android:text="Ingrese cantidad de dias trabajados:"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#E4EDEA"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="159dp" />
+
+    <Button
+        android:id="@+id/btnIngresar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingresar"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="440dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
