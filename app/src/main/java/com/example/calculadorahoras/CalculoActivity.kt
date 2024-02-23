@@ -10,11 +10,11 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 
-class MainActivity : AppCompatActivity() {
+class CalculoActivity : AppCompatActivity() {
     private lateinit var tvResultado: TextView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_calculo)
 
         val etHoras = findViewById<EditText>(R.id.etHoras)
         val etMinutos = findViewById<EditText>(R.id.etMinutos)

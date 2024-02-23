@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F35A5A"
-    tools:context=".IngresoHorasActivity">
+    tools:context=".IngresoDiasActivity">
 
     <EditText
         android:id="@+id/etCantidadDias"
