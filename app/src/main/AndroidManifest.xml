@@ -13,20 +13,20 @@
         android:theme="@style/Theme.CalculadoraHoras"
         tools:targetApi="31">
         <activity
+            android:name=".IngresoHorasExtraActivity"
+            android:exported="false" />
+        <activity
             android:name=".IngresoDiasActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".CalculoActivity"
-            android:exported="false">
-
-        </activity>
+            android:exported="false"></activity>
     </application>
 
 </manifest>

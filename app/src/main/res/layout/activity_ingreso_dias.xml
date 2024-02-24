@@ -9,26 +9,30 @@
 
     <EditText
         android:id="@+id/etCantidadDias"
-        android:layout_width="304dp"
-        android:layout_height="70dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvCantidadDias"
+        android:layout_marginHorizontal="900dp"
         android:layout_margin="25dp"
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
         android:ems="10"
-        android:inputType="text"
-        tools:layout_editor_absoluteX="36dp"
-        tools:layout_editor_absoluteY="317dp" />
+        android:inputType="number"/>
+
 
     <TextView
         android:id="@+id/tvCantidadDias"
         android:layout_width="304dp"
         android:layout_height="84dp"
-        android:background="#D69292"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         android:layout_marginTop="130dp"
+        android:textAlignment="center"
+        android:background="@drawable/rounded_edittext_bg"
         android:text="Ingrese cantidad de dias trabajados:"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#E4EDEA"
@@ -44,6 +48,7 @@
         app:layout_constraintTop_toBottomOf="@+id/etCantidadDias"
         android:layout_margin="25dp"
         android:text="Ingresar"
+        android:textSize="30dp"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="440dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
