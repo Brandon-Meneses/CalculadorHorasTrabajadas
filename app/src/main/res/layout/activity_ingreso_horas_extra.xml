@@ -6,9 +6,64 @@
     android:layout_height="match_parent"
     tools:context=".IngresoHorasExtraActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:layout_width="409dp"
-        android:layout_height="729dp"
+
+    <Spinner
+        android:id="@+id/spnDias"
+        android:layout_width="150dp"
+        android:layout_height="56dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginHorizontal="120dp"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"
+        android:textColor="#E4EDEA"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp" />
+        tools:layout_editor_absoluteY="51dp" />
+
+    <EditText
+        android:id="@+id/etTimeFirst"
+        android:layout_width="100dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="44dp"
+        android:ems="10"
+        android:inputType="time"
+        android:textAlignment="center"
+        android:textColor="#E4EDEA"
+        app:layout_constraintEnd_toStartOf="@+id/spnDias"
+        app:layout_constraintTop_toBottomOf="@+id/spnDias"
+        />
+    <EditText
+        android:id="@+id/etTimeSecond"
+        android:layout_width="100dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:inputType="time"
+        android:textAlignment="center"
+        android:textColor="#E4EDEA"
+        app:layout_constraintStart_toEndOf="@+id/spnDias"
+        app:layout_constraintTop_toTopOf="@+id/etTimeFirst" />
+
+    <TextView
+        android:id="@+id/tvInicio"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="@+id/etTimeFirst"
+        app:layout_constraintTop_toBottomOf="@+id/etTimeFirst"
+        android:text="Hora Inicio"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <TextView
+        android:id="@+id/tvFinal"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="@+id/etTimeSecond"
+        app:layout_constraintTop_toBottomOf="@+id/etTimeSecond"
+        android:text="Hora Final"
+        tools:layout_editor_absoluteX="291dp"
+        tools:layout_editor_absoluteY="208dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
